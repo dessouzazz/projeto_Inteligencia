@@ -1,0 +1,17 @@
+# Framework principal
+streamlit==1.35.0
+
+# Manipulação de dados
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualização
+plotly==5.21.0
+
+# Machine Learning
+scikit-learn==1.4.2
+lightgbm==4.3.0
+joblib==1.4.2
+
+# Geolocalização
+geopy==2.4.1
